@@ -1,1 +1,1 @@
-#### This folder contains the input.wps file used for the Weather Research and Forecast (WRF) model run presented in "Insights on the Spatiotemporal Variability of Downslope Winds in Coastal Santa Barbara: A Case Study From the Sundowner Winds Experiment (SWEX)"
+#### This folder contains the namelist.input file used for the Weather Research and Forecast (WRF) model run presented in "Insights on the Spatiotemporal Variability of Downslope Winds in Coastal Santa Barbara: A Case Study From the Sundowner Winds Experiment (SWEX)"
