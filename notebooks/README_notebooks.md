@@ -1,1 +1,1 @@
-# This folder contains the Jupyter Notebooks and conda/mamba environment file (.yml) used for the data analysis and visualization in "Insights on the Spatiotemporal Variability of Downslope Winds in Coastal Santa Barbara: A Case Study From the Sundowner Winds Experiment (SWEX)"
+#### This folder contains the Jupyter Notebooks and conda/mamba environment file (.yml) used for the data analysis and visualization in "Insights on the Spatiotemporal Variability of Downslope Winds in Coastal Santa Barbara: A Case Study From the Sundowner Winds Experiment (SWEX)"
